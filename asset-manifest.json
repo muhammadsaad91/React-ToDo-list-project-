@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/React-Weather-App/static/css/main.16e4a315.css",
-    "main.js": "/React-Weather-App/static/js/main.a7fc347f.js",
-    "index.html": "/React-Weather-App/index.html",
-    "main.16e4a315.css.map": "/React-Weather-App/static/css/main.16e4a315.css.map",
-    "main.a7fc347f.js.map": "/React-Weather-App/static/js/main.a7fc347f.js.map"
+    "main.css": "/React-ToDo-list-project-/static/css/main.16e4a315.css",
+    "main.js": "/React-ToDo-list-project-/static/js/main.a7fc347f.js",
+    "index.html": "/React-ToDo-list-project-/index.html",
+    "main.16e4a315.css.map": "/React-ToDo-list-project-/static/css/main.16e4a315.css.map",
+    "main.a7fc347f.js.map": "/React-ToDo-list-project-/static/js/main.a7fc347f.js.map"
   },
   "entrypoints": [
     "static/css/main.16e4a315.css",
